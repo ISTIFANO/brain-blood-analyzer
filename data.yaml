@@ -1,0 +1,9 @@
+train: ../src/infrastructure/data/Brain/dataset/Train
+val: ../src/infrastructure/data/Brain/dataset/Val
+nc: 4
+names:
+- Glioma
+- Meningioma
+- No Tumor
+- Pituitary
+augment: false
