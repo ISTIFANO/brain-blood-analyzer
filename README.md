@@ -79,6 +79,10 @@ Détecter la **présence** et **localiser** les tumeurs cérébrales à partir d
 
 ---
 
+## Liens Google Colab
+
+- Notebook principal (entrainement / évaluation) : [Cliquez ici](https://colab.research.google.com/drive/1IP6nyFQqbOL2J5gAdVPX8AIUJMOl58hU?usp=sharing)
+
 ## 💡 Interface Streamlit — Application unifiée
 
 ###  Objectif
