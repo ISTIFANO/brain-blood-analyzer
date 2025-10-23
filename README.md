@@ -1,6 +1,6 @@
-# README — Détection de tumeur & Classification de cellules cancéreuses
+# Détection de tumeur & Classification de cellules cancéreuses
 
-## 🎯 Contexte du projet
+##  Contexte du projet
 
 Vous êtes un développeur IA junior au sein d’un laboratoire biomédical spécialisé en **imagerie médicale**. Le laboratoire souhaite automatiser l’analyse de deux pathologies critiques :
 
@@ -11,9 +11,9 @@ L’objectif est de concevoir une **solution unifiée** d’analyse d’images b
 
 ---
 
-## 🧠 Partie 1 — Classification des cellules sanguines (PyTorch)
+##  Partie 1 — Classification des cellules sanguines (PyTorch)
 
-### 🎯 Objectif
+###  Objectif
 
 Identifier si une cellule sanguine est **saine** ou **cancéreuse (leucémique)** à partir d’une image microscopique.
 
@@ -46,7 +46,7 @@ Identifier si une cellule sanguine est **saine** ou **cancéreuse (leucémique)*
 
 ## 🧬 Partie 2 — Détection de tumeurs cérébrales (YOLOv8)
 
-### 🎯 Objectif
+###  Objectif
 
 Détecter la **présence** et **localiser** les tumeurs cérébrales à partir d’images d’IRM ou de scanner.
 
@@ -81,7 +81,7 @@ Détecter la **présence** et **localiser** les tumeurs cérébrales à partir d
 
 ## 💡 Interface Streamlit — Application unifiée
 
-### 🎯 Objectif
+###  Objectif
 
 Créer une interface interactive pour tester et comparer les deux modèles.
 
@@ -101,15 +101,11 @@ Créer une interface interactive pour tester et comparer les deux modèles.
 ### 🖼️ Exemple visuel Streamlit
 
 <img src="resultat.png">
-
-| Mode              | Interface exemple                                              |
-| ----------------- | -------------------------------------------------------------- |
-| 🩸 Classification | Image d’une cellule + texte : « Prediction : Leucemia (0.95) » |
-| 🧠 Détection      | Image IRM + zone surlignée « Tumor 0.89 »                      |
+                     |
 
 ---
 
-## 📊 Résumé des résultats attendus
+## Résumé des résultats attendus
 
 | Modèle    | Type           | Données            | Objectif            | Sortie                  |
 | --------- | -------------- | ------------------ | ------------------- | ----------------------- |
@@ -128,7 +124,7 @@ Créer une interface interactive pour tester et comparer les deux modèles.
 
 ## 👨‍💻 Auteur
 
-**Aamir El Amiri** — Développeur IA Junior
+**Aamir El Amiri** — Développeur IA Junior 
 **ABDELHAFID AIT EL MOKHTAR** — Développeur IA Junior
 
 Projet : *Analyse et détection d’images médicales (tumeur & leucémie)*
